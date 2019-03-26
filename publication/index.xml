@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images</title>
+      <link>https://ivankreso.github.io/publication/in-defense/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivankreso.github.io/publication/in-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust Semantic Segmentation with Ladder-DenseNet Models</title>
       <link>https://ivankreso.github.io/publication/robust-segmentation/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ivankreso.github.io/publication/robust-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Models for Segmentation and Localization</title>
+      <link>https://ivankreso.github.io/publication/hatz/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivankreso.github.io/publication/hatz/</guid>
       <description></description>
     </item>
     
